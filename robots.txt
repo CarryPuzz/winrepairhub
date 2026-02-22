@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carrypuzz.github.io/winrepairhub/sitemap.xml
